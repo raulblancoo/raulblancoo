@@ -1,7 +1,6 @@
 <h1 align="center"><b>Hi, I'm Raúl Blanco </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<br>
 
-## 💭​ About me
+<h2>💭​ About me</h2>
 <span align="left"> 
  <p><i>I am a final-year Computer Engineering student at the Escuela Superior de Ingeniería (ESEI) in Ourense, University of Vigo, and a dedicated backend developer specializing in the design and implementation of scalable services and RESTful APIs. Throughout my academic career, I have cultivated rigorous technical proficiency in server-side architecture, database optimization, and integration of disparate systems, enabling me to deliver robust solutions that adhere to performance and reliability standards.
 
@@ -9,7 +8,7 @@ My strongest assets lie in my soft skills: I excel in collaborative environments
 </span>
 
 
-## 🛠️ My Skills Include
+<h2>🛠️ My Skills Include</h2>
 
 <h4> Languages </h4>
 <span> 
